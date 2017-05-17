@@ -1,0 +1,18 @@
+# Site settings
+title: Yuxiang
+name: Yuxiang # your name
+email: hey@yuxiang.ca # your email address
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://heyyuxiang.github.io" # the base hostname & protocol for your site
+twitter_username: # your Twitter username
+github_username: # your Github username
+disqus_username: # your disqus username
+
+google-analytics: # add it if you have one
+
+skillstree: false # turn on or off the skills tree in about page
+
+# Build settings
+permalink: none
+markdown: kramdown
